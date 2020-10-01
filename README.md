@@ -1,2 +1,2 @@
-# belajat_git
+# belajar_git
 pelajaran pertama kelas git
